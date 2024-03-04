@@ -1,1 +1,3 @@
-# Neural-Networks-course_project
+# GB Курс Введение в нейронные сети
+## Курсовой проект
+
